@@ -1,0 +1,17 @@
+fight club,David Fincher,8.8,https://www.youtube.com/watch?v=qtRKdVHc-cE,147,1,1999
+
+million dollar baby,Clint Eastwood, 8.1,https://www.youtube.com/watch?v=5_RsHRmIRBY,148,1,2004
+
+It's a wonderful life,Frank Capra,8.6,https://www.youtube.com/watch?v=iLR3gZrU2Xo,75,1,1946
+
+Inception,Christopher Nolan,8.8,https://www.youtube.com/watch?v=YoHD9XEInc0,143,1,2010
+
+The Peripheral,Michael Roskam,8.1,https://www.youtube.com/watch?v=aH1FOkJys3Y,148,8,2021
+
+When Calls the Heart,Michael Landon,8.0,https://www.youtube.com/watch?v=I5xC3MMhIis,60,95,2014
+
+The Territory,Alex Pritz,7.6,https://www.youtube.com/watch?v=wL9wvdbk7A4,146,1,2022
+
+Three Identical Strangers,Tim Wardle,7.6,https://www.youtube.com/watch?v=4GeD3tDrRDQ,129,1,2018
+
+The Stepford Wives,Frank Oz,5.3,https://www.youtube.com/watch?v=SuAADocdVn0,150,1,2004
