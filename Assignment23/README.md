@@ -9,3 +9,8 @@ In classic Sudoku, the objective is to fill a 9 × 9 grid with digits so that ea
 If there is an error with the number you entered, you will see that the corresponding cell will turn red.
 
 ![image](2.png)
+
+---
+You can play the game by running "main.py"
+
+ENJOY!
