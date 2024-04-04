@@ -11,6 +11,10 @@ If there is an error with the number you entered, you will see that the correspo
 ![image](2.png)
 
 ---
-You can play the game by running "python main.py"
+You can play the game by running 
+
+```
+"python main.py"
+```
 
 ENJOY!
