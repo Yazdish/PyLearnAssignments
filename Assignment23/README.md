@@ -14,7 +14,7 @@ If there is an error with the number you entered, you will see that the correspo
 You can play the game by running 
 
 ```
-"python main.py"
+python main.py
 ```
 
 ENJOY!
