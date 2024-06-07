@@ -14,7 +14,7 @@ execution time in Convertor.py
 
 execution time in ConvertorPro.py
 
-![image](2)
+![image](pics/2.png)
 
 ---
 
