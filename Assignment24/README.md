@@ -10,7 +10,7 @@ Below you can see the result
 
 execution time in Convertor.py
 
-![image](1)
+![image](pics/1.png)
 
 execution time in ConvertorPro.py
 
